@@ -1,0 +1,46 @@
+.action1{
+    border: 1px solid green;
+    padding: 6px;
+    color: #000000;
+    padding-left: 10px;
+
+    padding-left: 10px;
+    text-decoration: none;
+color: green;
+border-radius: 10px;
+padding-left: 10px;
+}
+.action2{
+    border: 1px solid green;
+    padding: 6px;
+    padding-left: 10px;
+    text-decoration: none;
+    color:green;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+.action3{
+    border: 1px solid green;
+    padding: 6px;
+    padding-left: 10px;
+    text-decoration: none;
+    color:green;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    background-color: green;
+    color: aliceblue;
+    overflow: hidden;
+}
+.action4{
+    border: 1px solid green;
+    padding: 6px;
+    padding-left: 10px;
+    text-decoration: none;
+    color:green;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
